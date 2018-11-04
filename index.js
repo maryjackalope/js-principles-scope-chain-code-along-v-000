@@ -21,4 +21,5 @@ function changeLeastFavoriteCustomer(){
 
 function attemptTwoFavoriteCustomers(){
   var bestCustomer = 'Kanye';
+  var besCustomer = 'Kim';
 }
