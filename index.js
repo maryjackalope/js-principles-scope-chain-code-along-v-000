@@ -9,7 +9,7 @@ function setBestCustomer(){
   bestCustomer = 'not bob';
 }
 
-function overwriteBestCustomer(){
+function overWriteBestCustomer(){
   bestCustomer = 'maybe bob';
 }
 
@@ -20,5 +20,5 @@ function changeLeastFavoriteCustomer(){
 }
 
 function attemptTwoFavoriteCustomers(){
-  let bestCustomer = 'Kanye';
+  var bestCustomer = 'Kanye';
 }
